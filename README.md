@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nd2p
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning C, C++ and Java
+- 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate on every platforms
 - 📫 How to reach me: Discord: nd2p
 
