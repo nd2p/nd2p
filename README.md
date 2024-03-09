@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate on every platforms
-- 📫 How to reach me: Discord: nd2p
+- 📫 How to reach me: ndpp.work@gmail.com
 
 <!---
 nd2p/nd2p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
