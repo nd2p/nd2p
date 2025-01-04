@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nd2p - Software Engineering student of FPT University  
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C and Java
+- 🌱 I mainly use: C, Java, JavaScript, NodeJS, ReactJS
 - 💞️ I’m looking to collaborate on every platforms
 - 📫 How to reach me: ndpp.work@gmail.com
 
