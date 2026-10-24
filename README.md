@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @nd2p - Software engineer based in Viet Nam.
+- 👋 Hi, I’m @nd2p - Software Developer based in Viet Nam.
 - 🌱 Programming Language: TypeScript, JavaScript, Java, C.
 - 📫 How to reach me: ndpp.work@gmail.com
